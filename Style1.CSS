@@ -1,0 +1,38 @@
+.Main-heading {
+  color: Blue;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  font-size: larger;
+}
+h2 {
+  font-style: oblique;
+  h3 {
+    font: bold;
+  }
+}
+#par {
+  background-color: blueviolet;
+}
+p {
+  background-color: bisque;
+}
+footer {
+  background-color: rgb(162, 171, 171);
+  text-align: end;
+  display: inline-block;
+}
+
+main {
+  background-color: rgb(169, 161, 176);
+
+  border: solid 2px blue;
+  display: inline-block;
+
+  padding: 40px;
+}
+.details {
+  font-size: larger;
+  display: inline-block;
+}
+.Timings {
+  font-size: medium;
+}
